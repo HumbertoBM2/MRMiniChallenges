@@ -1,0 +1,8 @@
+<launch>
+    <!-- Start signal node -->
+    <node pkg="signal_processing_cpp" exec="signal_generator" name="signal_generator" output="screen"/> 
+    <!-- Start the processing signal node -->
+    <node pkg="signal_processing_cpp" exec="process" name="process" output="screen"/>
+    <!-- Start plotjuggler to visualize the data -->
+    <node pkg="plotjuggler" exec="plotjuggler" name="plotjuggler" output="screen"/>
+</launch>

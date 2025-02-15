@@ -1,0 +1,25 @@
+[0.913s] Invoking command in '/home/humberto/MCH1_WS/src/signal_processing': PYTHONPATH=/home/humberto/MCH1_WS/build/signal_processing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/MCH1_WS/install/signal_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/signal_processing build --build-base /home/humberto/MCH1_WS/build/signal_processing/build install --record /home/humberto/MCH1_WS/build/signal_processing/install.log --single-version-externally-managed install_data
+[1.279s] running egg_info
+[1.279s] writing ../../build/signal_processing/signal_processing.egg-info/PKG-INFO
+[1.280s] writing dependency_links to ../../build/signal_processing/signal_processing.egg-info/dependency_links.txt
+[1.280s] writing entry points to ../../build/signal_processing/signal_processing.egg-info/entry_points.txt
+[1.280s] writing requirements to ../../build/signal_processing/signal_processing.egg-info/requires.txt
+[1.280s] writing top-level names to ../../build/signal_processing/signal_processing.egg-info/top_level.txt
+[1.281s] reading manifest file '../../build/signal_processing/signal_processing.egg-info/SOURCES.txt'
+[1.282s] writing manifest file '../../build/signal_processing/signal_processing.egg-info/SOURCES.txt'
+[1.282s] running build
+[1.282s] running build_py
+[1.282s] copying signal_processing/process.py -> /home/humberto/MCH1_WS/build/signal_processing/build/lib/signal_processing
+[1.283s] running install
+[1.283s] running install_lib
+[1.284s] copying /home/humberto/MCH1_WS/build/signal_processing/build/lib/signal_processing/process.py -> /home/humberto/MCH1_WS/install/signal_processing/lib/python3.10/site-packages/signal_processing
+[1.286s] byte-compiling /home/humberto/MCH1_WS/install/signal_processing/lib/python3.10/site-packages/signal_processing/process.py to process.cpython-310.pyc
+[1.286s] running install_data
+[1.286s] running install_egg_info
+[1.289s] removing '/home/humberto/MCH1_WS/install/signal_processing/lib/python3.10/site-packages/signal_processing-0.0.0-py3.10.egg-info' (and everything under it)
+[1.289s] Copying ../../build/signal_processing/signal_processing.egg-info to /home/humberto/MCH1_WS/install/signal_processing/lib/python3.10/site-packages/signal_processing-0.0.0-py3.10.egg-info
+[1.290s] running install_scripts
+[1.319s] Installing process script to /home/humberto/MCH1_WS/install/signal_processing/lib/signal_processing
+[1.319s] Installing signal_generator script to /home/humberto/MCH1_WS/install/signal_processing/lib/signal_processing
+[1.319s] writing list of installed files to '/home/humberto/MCH1_WS/build/signal_processing/install.log'
+[1.336s] Invoked command in '/home/humberto/MCH1_WS/src/signal_processing' returned '0': PYTHONPATH=/home/humberto/MCH1_WS/build/signal_processing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/MCH1_WS/install/signal_processing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/signal_processing build --build-base /home/humberto/MCH1_WS/build/signal_processing/build install --record /home/humberto/MCH1_WS/build/signal_processing/install.log --single-version-externally-managed install_data
