@@ -50,6 +50,8 @@ source install/setup.zsh
 ros2 launch signal_processing signal_processing_launch.py
 ```
 
+Once PlotJuggler is prompted, click the start Button in the left menu, and select the signal and proc_signal topics, then, drag and drop the data into the graph area. 
+
 #### C++
 ```bash
 cd ~/mch1cpp
@@ -57,6 +59,14 @@ colcon build --packages-select signal_processing_cpp --symlink-install
 source install/setup.zsh
 ros2 launch signal_processing_cpp signal_processing_launch.xml
 ```
+
+
+Once PlotJuggler is prompted, click the start Button in the left menu, and select the signal and proc_signal topics, then, drag and drop the data into the graph area. 
+
+
+
+To visualize the node connections, run:
+
 
 ```bash
 ros2 run rqt_graph rqt_graph
