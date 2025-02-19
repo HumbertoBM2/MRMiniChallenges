@@ -21,11 +21,9 @@ class SignalProcessor(Node):
 
     def process_signal(self, msg):
         original_signal = msg.data
-
         # Apply phase shift, offset, and amplitude reduction
         shifted_signal = np.sin(self.time + self.phase_shift)  
         processed_signal = self.amplitude_factor * (shifted_signal + self.offset)  
-
         # Publish the processed signal to the topic
         self.processed_signal_publisher.publish(Float32(data=processed_signal))
         self.get_logger().info(f'Processed Signal: {processed_signal:.2f}')
