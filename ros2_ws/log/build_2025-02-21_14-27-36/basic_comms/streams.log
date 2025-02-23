@@ -1,0 +1,20 @@
+[1.775s] Invoking command in '/home/humberto/ros2_ws/build/basic_comms': PYTHONPATH=/home/humberto/ros2_ws/build/basic_comms/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/ros2_ws/install/basic_comms/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/humberto/ros2_ws/build/basic_comms/build --no-deps symlink_data --force
+[2.302s] running develop
+[2.581s] running egg_info
+[2.581s] writing basic_comms.egg-info/PKG-INFO
+[2.582s] writing dependency_links to basic_comms.egg-info/dependency_links.txt
+[2.582s] writing entry points to basic_comms.egg-info/entry_points.txt
+[2.582s] writing requirements to basic_comms.egg-info/requires.txt
+[2.582s] writing top-level names to basic_comms.egg-info/top_level.txt
+[2.585s] reading manifest file 'basic_comms.egg-info/SOURCES.txt'
+[2.587s] writing manifest file 'basic_comms.egg-info/SOURCES.txt'
+[2.593s] running build_ext
+[2.593s] Creating /home/humberto/ros2_ws/install/basic_comms/lib/python3.10/site-packages/basic-comms.egg-link (link to .)
+[2.594s] Installing listener script to /home/humberto/ros2_ws/install/basic_comms/lib/basic_comms
+[2.594s] Installing talker script to /home/humberto/ros2_ws/install/basic_comms/lib/basic_comms
+[2.595s] 
+[2.595s] Installed /home/humberto/ros2_ws/build/basic_comms
+[2.595s] running symlink_data
+[2.595s] symbolically linking /home/humberto/ros2_ws/build/basic_comms/resource/basic_comms -> /home/humberto/ros2_ws/install/basic_comms/share/ament_index/resource_index/packages
+[2.595s] symbolically linking /home/humberto/ros2_ws/build/basic_comms/package.xml -> /home/humberto/ros2_ws/install/basic_comms/share/basic_comms
+[2.595s] symbolically linking /home/humberto/ros2_ws/build/basic_comms/launch/activity1_launch.py -> /home/humberto/ros2_ws/install/basic_comms/share/basic_comms/launch

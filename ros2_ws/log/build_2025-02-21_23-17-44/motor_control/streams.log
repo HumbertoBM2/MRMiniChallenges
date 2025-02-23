@@ -1,0 +1,19 @@
+[1.346s] Invoking command in '/home/humberto/ros2_ws/build/motor_control': PYTHONPATH=/home/humberto/ros2_ws/build/motor_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/ros2_ws/install/motor_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/humberto/ros2_ws/build/motor_control/build --no-deps symlink_data
+[1.760s] running develop
+[1.982s] running egg_info
+[1.982s] writing motor_control.egg-info/PKG-INFO
+[1.982s] writing dependency_links to motor_control.egg-info/dependency_links.txt
+[1.983s] writing entry points to motor_control.egg-info/entry_points.txt
+[1.983s] writing requirements to motor_control.egg-info/requires.txt
+[1.983s] writing top-level names to motor_control.egg-info/top_level.txt
+[1.989s] reading manifest file 'motor_control.egg-info/SOURCES.txt'
+[1.990s] writing manifest file 'motor_control.egg-info/SOURCES.txt'
+[1.994s] running build_ext
+[1.994s] Creating /home/humberto/ros2_ws/install/motor_control/lib/python3.10/site-packages/motor-control.egg-link (link to .)
+[1.995s] Installing controller script to /home/humberto/ros2_ws/install/motor_control/lib/motor_control
+[1.995s] Installing dc_motor script to /home/humberto/ros2_ws/install/motor_control/lib/motor_control
+[1.996s] Installing set_point script to /home/humberto/ros2_ws/install/motor_control/lib/motor_control
+[1.996s] 
+[1.996s] Installed /home/humberto/ros2_ws/build/motor_control
+[1.996s] running symlink_data
+[2.019s] Invoked command in '/home/humberto/ros2_ws/build/motor_control' returned '0': PYTHONPATH=/home/humberto/ros2_ws/build/motor_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/ros2_ws/install/motor_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/humberto/ros2_ws/build/motor_control/build --no-deps symlink_data

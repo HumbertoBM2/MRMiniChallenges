@@ -1,0 +1,24 @@
+[1.118s] Invoking command in '/home/humberto/ros2_ws/src/basic_comms': PYTHONPATH=/home/humberto/ros2_ws/build/basic_comms/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/ros2_ws/install/basic_comms/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/basic_comms build --build-base /home/humberto/ros2_ws/build/basic_comms/build install --record /home/humberto/ros2_ws/build/basic_comms/install.log --single-version-externally-managed install_data
+[1.553s] running egg_info
+[1.554s] writing ../../build/basic_comms/basic_comms.egg-info/PKG-INFO
+[1.554s] writing dependency_links to ../../build/basic_comms/basic_comms.egg-info/dependency_links.txt
+[1.554s] writing entry points to ../../build/basic_comms/basic_comms.egg-info/entry_points.txt
+[1.554s] writing requirements to ../../build/basic_comms/basic_comms.egg-info/requires.txt
+[1.554s] writing top-level names to ../../build/basic_comms/basic_comms.egg-info/top_level.txt
+[1.556s] reading manifest file '../../build/basic_comms/basic_comms.egg-info/SOURCES.txt'
+[1.556s] writing manifest file '../../build/basic_comms/basic_comms.egg-info/SOURCES.txt'
+[1.557s] running build
+[1.557s] running build_py
+[1.557s] copying basic_comms/talker.py -> /home/humberto/ros2_ws/build/basic_comms/build/lib/basic_comms
+[1.557s] running install
+[1.557s] running install_lib
+[1.558s] copying /home/humberto/ros2_ws/build/basic_comms/build/lib/basic_comms/talker.py -> /home/humberto/ros2_ws/install/basic_comms/lib/python3.10/site-packages/basic_comms
+[1.560s] byte-compiling /home/humberto/ros2_ws/install/basic_comms/lib/python3.10/site-packages/basic_comms/talker.py to talker.cpython-310.pyc
+[1.560s] running install_data
+[1.560s] running install_egg_info
+[1.564s] removing '/home/humberto/ros2_ws/install/basic_comms/lib/python3.10/site-packages/basic_comms-0.0.0-py3.10.egg-info' (and everything under it)
+[1.565s] Copying ../../build/basic_comms/basic_comms.egg-info to /home/humberto/ros2_ws/install/basic_comms/lib/python3.10/site-packages/basic_comms-0.0.0-py3.10.egg-info
+[1.565s] running install_scripts
+[1.599s] Installing talker script to /home/humberto/ros2_ws/install/basic_comms/lib/basic_comms
+[1.600s] writing list of installed files to '/home/humberto/ros2_ws/build/basic_comms/install.log'
+[1.618s] Invoked command in '/home/humberto/ros2_ws/src/basic_comms' returned '0': PYTHONPATH=/home/humberto/ros2_ws/build/basic_comms/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/ros2_ws/install/basic_comms/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/basic_comms build --build-base /home/humberto/ros2_ws/build/basic_comms/build install --record /home/humberto/ros2_ws/build/basic_comms/install.log --single-version-externally-managed install_data

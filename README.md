@@ -76,3 +76,53 @@ ros2 run rqt_graph rqt_graph
 
 ![graph1](Gallery/graph.jpg)
 ![plot1](Gallery/plot.jpg)
+
+
+## Mini challenge 2
+
+This challenge involved designing and tuning a PID controller to regulate the behavior of a simulated DC motor. The objective was to ensure that the motor’s actual speed followed the desired set point as closely as possible.
+
+The system consisted of the following ROS 2 nodes:
+
+- Set Point Generator (sp_gen) → Provides the reference trajectory.
+- DC Motor (motor_sys) → Simulates a motor's response to control inputs.
+- PID Controller (ctrl) → Adjusts the input voltage (blue line) to make the motor speed match the set point.
+
+Additionally, visualization and monitoring tools were used:
+
+- PlotJuggler → Real-time data visualization.
+- rqt_graph → Node and topic structure visualization.
+- rqt_reconfigure → Dynamic tuning of PID parameters.
+
+
+To test the developed solution for the challenge, you can run the following commands after cloning the repo:
+
+
+```bash 
+cd ~/ros2_ws
+colcon build --symlink-install
+source install/setup.zsh
+```
+
+To launch only one group of nodes:
+```bash
+ros2 launch motor_control motor_launch.py
+```
+
+To launch multiple groups of nodes: 
+```bash
+ros2 launch motor_control challenge_launch.py
+```
+
+
+#### Gallery for mini challenge 2
+
+![graph2](Gallery/graph21group.png)
+
+![plot2](Gallery/plot21group.png)
+
+![graph22](Gallery/graph23groups.png)
+
+![plot22](Gallery/plot23groups.png)
+
+![pid22](Gallery/reconfig2.png)

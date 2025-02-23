@@ -1,0 +1,524 @@
+[0.038s] Invoking command in '/home/humberto/ros2_ws/src/build/turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/humberto/ros2_humble/install/rqt_bag_plugins:/home/humberto/ros2_humble/install/rqt_bag:/home/humberto/ros2_humble/install/launch_testing_examples:/home/humberto/ros2_humble/install/ros2bag:/home/humberto/ros2_humble/install/tracetools_test:/home/humberto/ros2_humble/install/tracetools_launch:/home/humberto/ros2_humble/install/topic_monitor:/home/humberto/ros2_humble/install/tf2_tools:/home/humberto/ros2_humble/install/examples_tf2_py:/home/humberto/ros2_humble/install/tf2_ros_py:/home/humberto/ros2_humble/install/sros2:/home/humberto/ros2_humble/install/rqt_topic:/home/humberto/ros2_humble/install/rqt_srv:/home/humberto/ros2_humble/install/rqt_shell:/home/humberto/ros2_humble/install/rqt_service_caller:/home/humberto/ros2_humble/install/rqt_reconfigure:/home/humberto/ros2_humble/install/rqt_py_console:/home/humberto/ros2_humble/install/rqt_publisher:/home/humberto/ros2_humble/install/rqt_plot:/home/humberto/ros2_humble/install/rqt_action:/home/humberto/ros2_humble/install/rqt_msg:/home/humberto/ros2_humble/install/rqt_console:/home/humberto/ros2_humble/install/rqt:/home/humberto/ros2_humble/install/rqt_graph:/home/humberto/ros2_humble/install/rqt_gui_py:/home/humberto/ros2_humble/install/rqt_gui:/home/humberto/ros2_humble/install/ros2trace:/home/humberto/ros2_humble/install/ros2topic:/home/humberto/ros2_humble/install/ros2test:/home/humberto/ros2_humble/install/ros2component:/home/humberto/ros2_humble/install/ros2param:/home/humberto/ros2_humble/install/ros2lifecycle:/home/humberto/ros2_humble/install/ros2service:/home/humberto/ros2_humble/install/ros2run:/home/humberto/ros2_humble/install/ros2launch:/home/humberto/ros2_humble/install/ros2pkg:/home/humberto/ros2_humble/install/ros2node:/home/humberto/ros2_humble/install/ros2multicast:/home/humberto/ros2_humble/install/ros2interface:/home/humberto/ros2_humble/install/ros2doctor:/home/humberto/ros2_humble/install/ros2action:/home/humberto/ros2_humble/install/ros2cli:/home/humberto/ros2_humble/install/quality_of_service_demo_py:/home/humberto/ros2_humble/install/lifecycle_py:/home/humberto/ros2_humble/install/launch_testing_ros:/home/humberto/ros2_humble/install/launch_ros:/home/humberto/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/humberto/ros2_humble/install/examples_rclpy_minimal_service:/home/humberto/ros2_humble/install/examples_rclpy_minimal_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_client:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_server:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_client:/home/humberto/ros2_humble/install/examples_rclpy_guard_conditions:/home/humberto/ros2_humble/install/examples_rclpy_executors:/home/humberto/ros2_humble/install/demo_nodes_py:/home/humberto/ros2_humble/install/camera_info_manager_py:/home/humberto/ros2_humble/install/action_tutorials_py:/home/humberto/ros2_humble/install/ament_uncrustify:/home/humberto/ros2_humble/install/tracetools_trace:/home/humberto/ros2_humble/install/tracetools_read:/home/humberto/ros2_humble/install/test_tracetools_launch:/home/humberto/ros2_humble/install/test_launch_ros:/home/humberto/ros2_humble/install/sensor_msgs_py:/home/humberto/ros2_humble/install/rpyutils:/home/humberto/ros2_humble/install/rosidl_runtime_py:/home/humberto/ros2_humble/install/rosidl_cli:/home/humberto/ros2_humble/install/launch_pytest:/home/humberto/ros2_humble/install/launch_testing:/home/humberto/ros2_humble/install/launch_yaml:/home/humberto/ros2_humble/install/launch_xml:/home/humberto/ros2_humble/install/launch:/home/humberto/ros2_humble/install/osrf_pycommon:/home/humberto/ros2_humble/install/domain_coordinator:/home/humberto/ros2_humble/install/ament_xmllint:/home/humberto/ros2_humble/install/ament_pyflakes:/home/humberto/ros2_humble/install/ament_pycodestyle:/home/humberto/ros2_humble/install/ament_pep257:/home/humberto/ros2_humble/install/ament_pclint:/home/humberto/ros2_humble/install/ament_package:/home/humberto/ros2_humble/install/ament_mypy:/home/humberto/ros2_humble/install/ament_lint_cmake:/home/humberto/ros2_humble/install/ament_flake8:/home/humberto/ros2_humble/install/ament_copyright:/home/humberto/ros2_humble/install/ament_lint:/home/humberto/ros2_humble/install/ament_index_python:/home/humberto/ros2_humble/install/ament_cpplint:/home/humberto/ros2_humble/install/ament_cppcheck:/home/humberto/ros2_humble/install/ament_clang_tidy:/home/humberto/ros2_humble/install/ament_clang_format /usr/bin/cmake /home/humberto/ros2_ws/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/home/humberto/ros2_ws/src/install/turtlesim
+[0.136s] -- The C compiler identification is GNU 11.4.0
+[0.209s] -- The CXX compiler identification is GNU 11.4.0
+[0.219s] -- Detecting C compiler ABI info
+[0.316s] -- Detecting C compiler ABI info - done
+[0.323s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.323s] -- Detecting C compile features
+[0.323s] -- Detecting C compile features - done
+[0.326s] -- Detecting CXX compiler ABI info
+[0.430s] -- Detecting CXX compiler ABI info - done
+[0.437s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.437s] -- Detecting CXX compile features
+[0.437s] -- Detecting CXX compile features - done
+[0.454s] -- Found ament_cmake: 1.3.11 (/home/humberto/ros2_humble/install/ament_cmake/share/ament_cmake/cmake)
+[0.968s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.367s] -- Found ament_index_cpp: 1.4.0 (/home/humberto/ros2_humble/install/ament_index_cpp/share/ament_index_cpp/cmake)
+[1.375s] -- Found geometry_msgs: 4.2.4 (/home/humberto/ros2_humble/install/geometry_msgs/share/geometry_msgs/cmake)
+[1.534s] -- Found rosidl_generator_c: 3.1.6 (/home/humberto/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake)
+[1.562s] -- Found rosidl_adapter: 3.1.6 (/home/humberto/ros2_humble/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[1.591s] -- Found rosidl_generator_cpp: 3.1.6 (/home/humberto/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake)
+[1.654s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_introspection_c;rosidl_typesupport_fastrtps_c
+[1.726s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+[1.854s] -- Found rclcpp: 16.0.11 (/home/humberto/ros2_humble/install/rclcpp/share/rclcpp/cmake)
+[1.967s] -- Found rmw_implementation_cmake: 6.1.2 (/home/humberto/ros2_humble/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[2.004s] -- Found rmw_fastrtps_cpp: 6.2.7 (/home/humberto/ros2_humble/install/rmw_fastrtps_cpp/share/rmw_fastrtps_cpp/cmake)
+[2.226s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.280s] -- Found FastRTPS: /home/humberto/ros2_humble/install/fastrtps/include  
+[2.380s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.423s] -- Looking for pthread.h
+[2.510s] -- Looking for pthread.h - found
+[2.510s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.600s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.601s] -- Found Threads: TRUE  
+[2.679s] -- Found rclcpp_action: 16.0.11 (/home/humberto/ros2_humble/install/rclcpp_action/share/rclcpp_action/cmake)
+[2.731s] -- Found rosidl_default_generators: 1.2.0 (/home/humberto/ros2_humble/install/rosidl_default_generators/share/rosidl_default_generators/cmake)
+[2.825s] -- Found std_srvs: 4.2.4 (/home/humberto/ros2_humble/install/std_srvs/share/std_srvs/cmake)
+[3.563s] -- Found ament_cmake_ros: 0.10.0 (/home/humberto/ros2_humble/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[4.484s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_introspection_c;rosidl_typesupport_fastrtps_c
+[4.827s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+[4.903s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[4.916s] -- Found python_cmake_module: 0.10.0 (/home/humberto/ros2_humble/install/python_cmake_module/share/python_cmake_module/cmake)
+[5.002s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[5.002s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.003s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[5.003s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[5.072s] -- Found PythonExtra: .so  
+[5.827s] -- Configuring done
+[5.904s] -- Generating done
+[5.923s] -- Build files have been written to: /home/humberto/ros2_ws/src/build/turtlesim
+[5.933s] Invoked command in '/home/humberto/ros2_ws/src/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/humberto/ros2_humble/install/rqt_bag_plugins:/home/humberto/ros2_humble/install/rqt_bag:/home/humberto/ros2_humble/install/launch_testing_examples:/home/humberto/ros2_humble/install/ros2bag:/home/humberto/ros2_humble/install/tracetools_test:/home/humberto/ros2_humble/install/tracetools_launch:/home/humberto/ros2_humble/install/topic_monitor:/home/humberto/ros2_humble/install/tf2_tools:/home/humberto/ros2_humble/install/examples_tf2_py:/home/humberto/ros2_humble/install/tf2_ros_py:/home/humberto/ros2_humble/install/sros2:/home/humberto/ros2_humble/install/rqt_topic:/home/humberto/ros2_humble/install/rqt_srv:/home/humberto/ros2_humble/install/rqt_shell:/home/humberto/ros2_humble/install/rqt_service_caller:/home/humberto/ros2_humble/install/rqt_reconfigure:/home/humberto/ros2_humble/install/rqt_py_console:/home/humberto/ros2_humble/install/rqt_publisher:/home/humberto/ros2_humble/install/rqt_plot:/home/humberto/ros2_humble/install/rqt_action:/home/humberto/ros2_humble/install/rqt_msg:/home/humberto/ros2_humble/install/rqt_console:/home/humberto/ros2_humble/install/rqt:/home/humberto/ros2_humble/install/rqt_graph:/home/humberto/ros2_humble/install/rqt_gui_py:/home/humberto/ros2_humble/install/rqt_gui:/home/humberto/ros2_humble/install/ros2trace:/home/humberto/ros2_humble/install/ros2topic:/home/humberto/ros2_humble/install/ros2test:/home/humberto/ros2_humble/install/ros2component:/home/humberto/ros2_humble/install/ros2param:/home/humberto/ros2_humble/install/ros2lifecycle:/home/humberto/ros2_humble/install/ros2service:/home/humberto/ros2_humble/install/ros2run:/home/humberto/ros2_humble/install/ros2launch:/home/humberto/ros2_humble/install/ros2pkg:/home/humberto/ros2_humble/install/ros2node:/home/humberto/ros2_humble/install/ros2multicast:/home/humberto/ros2_humble/install/ros2interface:/home/humberto/ros2_humble/install/ros2doctor:/home/humberto/ros2_humble/install/ros2action:/home/humberto/ros2_humble/install/ros2cli:/home/humberto/ros2_humble/install/quality_of_service_demo_py:/home/humberto/ros2_humble/install/lifecycle_py:/home/humberto/ros2_humble/install/launch_testing_ros:/home/humberto/ros2_humble/install/launch_ros:/home/humberto/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/humberto/ros2_humble/install/examples_rclpy_minimal_service:/home/humberto/ros2_humble/install/examples_rclpy_minimal_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_client:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_server:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_client:/home/humberto/ros2_humble/install/examples_rclpy_guard_conditions:/home/humberto/ros2_humble/install/examples_rclpy_executors:/home/humberto/ros2_humble/install/demo_nodes_py:/home/humberto/ros2_humble/install/camera_info_manager_py:/home/humberto/ros2_humble/install/action_tutorials_py:/home/humberto/ros2_humble/install/ament_uncrustify:/home/humberto/ros2_humble/install/tracetools_trace:/home/humberto/ros2_humble/install/tracetools_read:/home/humberto/ros2_humble/install/test_tracetools_launch:/home/humberto/ros2_humble/install/test_launch_ros:/home/humberto/ros2_humble/install/sensor_msgs_py:/home/humberto/ros2_humble/install/rpyutils:/home/humberto/ros2_humble/install/rosidl_runtime_py:/home/humberto/ros2_humble/install/rosidl_cli:/home/humberto/ros2_humble/install/launch_pytest:/home/humberto/ros2_humble/install/launch_testing:/home/humberto/ros2_humble/install/launch_yaml:/home/humberto/ros2_humble/install/launch_xml:/home/humberto/ros2_humble/install/launch:/home/humberto/ros2_humble/install/osrf_pycommon:/home/humberto/ros2_humble/install/domain_coordinator:/home/humberto/ros2_humble/install/ament_xmllint:/home/humberto/ros2_humble/install/ament_pyflakes:/home/humberto/ros2_humble/install/ament_pycodestyle:/home/humberto/ros2_humble/install/ament_pep257:/home/humberto/ros2_humble/install/ament_pclint:/home/humberto/ros2_humble/install/ament_package:/home/humberto/ros2_humble/install/ament_mypy:/home/humberto/ros2_humble/install/ament_lint_cmake:/home/humberto/ros2_humble/install/ament_flake8:/home/humberto/ros2_humble/install/ament_copyright:/home/humberto/ros2_humble/install/ament_lint:/home/humberto/ros2_humble/install/ament_index_python:/home/humberto/ros2_humble/install/ament_cpplint:/home/humberto/ros2_humble/install/ament_cppcheck:/home/humberto/ros2_humble/install/ament_clang_tidy:/home/humberto/ros2_humble/install/ament_clang_format /usr/bin/cmake /home/humberto/ros2_ws/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/home/humberto/ros2_ws/src/install/turtlesim
+[5.934s] Invoking command in '/home/humberto/ros2_ws/src/build/turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/humberto/ros2_humble/install/rqt_bag_plugins:/home/humberto/ros2_humble/install/rqt_bag:/home/humberto/ros2_humble/install/launch_testing_examples:/home/humberto/ros2_humble/install/ros2bag:/home/humberto/ros2_humble/install/tracetools_test:/home/humberto/ros2_humble/install/tracetools_launch:/home/humberto/ros2_humble/install/topic_monitor:/home/humberto/ros2_humble/install/tf2_tools:/home/humberto/ros2_humble/install/examples_tf2_py:/home/humberto/ros2_humble/install/tf2_ros_py:/home/humberto/ros2_humble/install/sros2:/home/humberto/ros2_humble/install/rqt_topic:/home/humberto/ros2_humble/install/rqt_srv:/home/humberto/ros2_humble/install/rqt_shell:/home/humberto/ros2_humble/install/rqt_service_caller:/home/humberto/ros2_humble/install/rqt_reconfigure:/home/humberto/ros2_humble/install/rqt_py_console:/home/humberto/ros2_humble/install/rqt_publisher:/home/humberto/ros2_humble/install/rqt_plot:/home/humberto/ros2_humble/install/rqt_action:/home/humberto/ros2_humble/install/rqt_msg:/home/humberto/ros2_humble/install/rqt_console:/home/humberto/ros2_humble/install/rqt:/home/humberto/ros2_humble/install/rqt_graph:/home/humberto/ros2_humble/install/rqt_gui_py:/home/humberto/ros2_humble/install/rqt_gui:/home/humberto/ros2_humble/install/ros2trace:/home/humberto/ros2_humble/install/ros2topic:/home/humberto/ros2_humble/install/ros2test:/home/humberto/ros2_humble/install/ros2component:/home/humberto/ros2_humble/install/ros2param:/home/humberto/ros2_humble/install/ros2lifecycle:/home/humberto/ros2_humble/install/ros2service:/home/humberto/ros2_humble/install/ros2run:/home/humberto/ros2_humble/install/ros2launch:/home/humberto/ros2_humble/install/ros2pkg:/home/humberto/ros2_humble/install/ros2node:/home/humberto/ros2_humble/install/ros2multicast:/home/humberto/ros2_humble/install/ros2interface:/home/humberto/ros2_humble/install/ros2doctor:/home/humberto/ros2_humble/install/ros2action:/home/humberto/ros2_humble/install/ros2cli:/home/humberto/ros2_humble/install/quality_of_service_demo_py:/home/humberto/ros2_humble/install/lifecycle_py:/home/humberto/ros2_humble/install/launch_testing_ros:/home/humberto/ros2_humble/install/launch_ros:/home/humberto/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/humberto/ros2_humble/install/examples_rclpy_minimal_service:/home/humberto/ros2_humble/install/examples_rclpy_minimal_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_client:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_server:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_client:/home/humberto/ros2_humble/install/examples_rclpy_guard_conditions:/home/humberto/ros2_humble/install/examples_rclpy_executors:/home/humberto/ros2_humble/install/demo_nodes_py:/home/humberto/ros2_humble/install/camera_info_manager_py:/home/humberto/ros2_humble/install/action_tutorials_py:/home/humberto/ros2_humble/install/ament_uncrustify:/home/humberto/ros2_humble/install/tracetools_trace:/home/humberto/ros2_humble/install/tracetools_read:/home/humberto/ros2_humble/install/test_tracetools_launch:/home/humberto/ros2_humble/install/test_launch_ros:/home/humberto/ros2_humble/install/sensor_msgs_py:/home/humberto/ros2_humble/install/rpyutils:/home/humberto/ros2_humble/install/rosidl_runtime_py:/home/humberto/ros2_humble/install/rosidl_cli:/home/humberto/ros2_humble/install/launch_pytest:/home/humberto/ros2_humble/install/launch_testing:/home/humberto/ros2_humble/install/launch_yaml:/home/humberto/ros2_humble/install/launch_xml:/home/humberto/ros2_humble/install/launch:/home/humberto/ros2_humble/install/osrf_pycommon:/home/humberto/ros2_humble/install/domain_coordinator:/home/humberto/ros2_humble/install/ament_xmllint:/home/humberto/ros2_humble/install/ament_pyflakes:/home/humberto/ros2_humble/install/ament_pycodestyle:/home/humberto/ros2_humble/install/ament_pep257:/home/humberto/ros2_humble/install/ament_pclint:/home/humberto/ros2_humble/install/ament_package:/home/humberto/ros2_humble/install/ament_mypy:/home/humberto/ros2_humble/install/ament_lint_cmake:/home/humberto/ros2_humble/install/ament_flake8:/home/humberto/ros2_humble/install/ament_copyright:/home/humberto/ros2_humble/install/ament_lint:/home/humberto/ros2_humble/install/ament_index_python:/home/humberto/ros2_humble/install/ament_cpplint:/home/humberto/ros2_humble/install/ament_cppcheck:/home/humberto/ros2_humble/install/ament_clang_tidy:/home/humberto/ros2_humble/install/ament_clang_format /usr/bin/cmake --build /home/humberto/ros2_ws/src/build/turtlesim -- -j16 -l16
+[5.996s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[6.014s] [  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[6.027s] [  2%] Built target ament_cmake_python_copy_turtlesim
+[6.471s] running egg_info
+[6.471s] creating turtlesim.egg-info
+[6.471s] writing turtlesim.egg-info/PKG-INFO
+[6.472s] writing dependency_links to turtlesim.egg-info/dependency_links.txt
+[6.472s] writing top-level names to turtlesim.egg-info/top_level.txt
+[6.472s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[6.473s] reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+[6.474s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[6.506s] [  2%] Built target ament_cmake_python_build_turtlesim_egg
+[7.088s] [  3%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_c.dir/rosidl_generator_c/turtlesim/msg/detail/pose__functions.c.o[0m
+[7.088s] [  5%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_c.dir/rosidl_generator_c/turtlesim/msg/detail/color__functions.c.o[0m
+[7.088s] [  5%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_c.dir/rosidl_generator_c/turtlesim/action/detail/rotate_absolute__functions.c.o[0m
+[7.088s] [  6%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_c.dir/rosidl_generator_c/turtlesim/srv/detail/kill__functions.c.o[0m
+[7.093s] [  7%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_c.dir/rosidl_generator_c/turtlesim/srv/detail/set_pen__functions.c.o[0m
+[7.093s] [  8%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_c.dir/rosidl_generator_c/turtlesim/srv/detail/teleport_absolute__functions.c.o[0m
+[7.095s] [  9%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_c.dir/rosidl_generator_c/turtlesim/srv/detail/spawn__functions.c.o[0m
+[7.095s] [ 10%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_c.dir/rosidl_generator_c/turtlesim/srv/detail/teleport_relative__functions.c.o[0m
+[7.100s] [ 10%] Built target turtlesim__cpp
+[7.120s] [ 12%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[7.120s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[7.131s] [ 13%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[7.239s] [ 14%] [32m[1mLinking C shared library libturtlesim__rosidl_generator_c.so[0m
+[7.289s] [ 14%] Built target turtlesim__rosidl_generator_c
+[7.308s] [ 17%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[7.308s] [ 17%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[7.308s] [ 17%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[7.796s] [ 18%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim/msg/color__type_support.cpp.o[0m
+[7.802s] [ 19%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim/srv/teleport_absolute__type_support.cpp.o[0m
+[7.803s] [ 22%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim/action/rotate_absolute__type_support.cpp.o[0m
+[7.803s] [ 22%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim/srv/kill__type_support.cpp.o[0m
+[7.803s] [ 22%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim/msg/pose__type_support.cpp.o[0m
+[7.803s] [ 23%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim/srv/set_pen__type_support.cpp.o[0m
+[7.803s] [ 24%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim/srv/spawn__type_support.cpp.o[0m
+[7.805s] [ 25%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim/srv/teleport_relative__type_support.cpp.o[0m
+[8.092s] [ 26%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim/action/detail/rotate_absolute__type_support.cpp.o[0m
+[8.096s] [ 27%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim/msg/detail/color__type_support.cpp.o[0m
+[8.134s] [ 28%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim/srv/detail/kill__type_support.cpp.o[0m
+[8.134s] [ 29%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim/msg/detail/pose__type_support.cpp.o[0m
+[8.181s] [ 30%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim/action/rotate_absolute__type_support.cpp.o[0m
+[8.208s] [ 31%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim/msg/color__type_support.cpp.o[0m
+[8.255s] [ 32%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim/msg/pose__type_support.cpp.o[0m
+[8.271s] [ 33%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim/srv/kill__type_support.cpp.o[0m
+[8.272s] [ 34%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim/srv/detail/set_pen__type_support.cpp.o[0m
+[8.273s] [ 35%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim/srv/detail/spawn__type_support.cpp.o[0m
+[8.294s] [ 36%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim/srv/set_pen__type_support.cpp.o[0m
+[8.305s] [ 37%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim/srv/spawn__type_support.cpp.o[0m
+[8.313s] [ 38%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim/srv/detail/teleport_absolute__type_support.cpp.o[0m
+[8.316s] [ 39%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim/srv/teleport_absolute__type_support.cpp.o[0m
+[8.348s] [ 40%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim/srv/teleport_relative__type_support.cpp.o[0m
+[8.355s] [ 41%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim/srv/detail/teleport_relative__type_support.cpp.o[0m
+[8.434s] [ 42%] [32m[1mLinking CXX shared library libturtlesim__rosidl_typesupport_c.so[0m
+[8.469s] [ 43%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim/msg/detail/dds_fastrtps/pose__type_support.cpp.o[0m
+[8.469s] [ 44%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim/msg/detail/dds_fastrtps/color__type_support.cpp.o[0m
+[8.470s] [ 45%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim/action/detail/dds_fastrtps/rotate_absolute__type_support.cpp.o[0m
+[8.500s] [ 46%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim/srv/detail/dds_fastrtps/kill__type_support.cpp.o[0m
+[8.532s] [ 46%] Built target turtlesim__rosidl_typesupport_c
+[8.543s] [ 47%] [32m[1mLinking CXX shared library libturtlesim__rosidl_typesupport_cpp.so[0m
+[8.563s] [ 48%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim/srv/detail/dds_fastrtps/set_pen__type_support.cpp.o[0m
+[8.613s] [ 49%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim/action/detail/rotate_absolute__type_support.c.o[0m
+[8.650s] [ 49%] Built target turtlesim__rosidl_typesupport_cpp
+[8.706s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim/srv/detail/dds_fastrtps/teleport_absolute__type_support.cpp.o[0m
+[8.710s] [ 51%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim/srv/detail/dds_fastrtps/spawn__type_support.cpp.o[0m
+[8.727s] [ 52%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim/msg/detail/color__type_support.c.o[0m
+[8.770s] [ 53%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim/srv/detail/dds_fastrtps/teleport_relative__type_support.cpp.o[0m
+[8.770s] [ 54%] [34m[1mGenerating include/turtlesim/moc_turtle_frame.cpp[0m
+[8.809s] [ 55%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim/msg/detail/pose__type_support.c.o[0m
+[8.893s] [ 56%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim/srv/detail/kill__type_support.c.o[0m
+[8.919s] [ 57%] [32mBuilding CXX object CMakeFiles/turtlesim_node.dir/src/turtlesim.cpp.o[0m
+[8.935s] [ 58%] [32mBuilding CXX object CMakeFiles/turtlesim_node.dir/src/turtle.cpp.o[0m
+[8.972s] [ 59%] [32mBuilding CXX object CMakeFiles/turtlesim_node.dir/src/turtle_frame.cpp.o[0m
+[8.974s] [ 60%] [32mBuilding CXX object CMakeFiles/turtle_teleop_key.dir/tutorials/teleop_turtle_key.cpp.o[0m
+[8.978s] [ 61%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim/srv/detail/set_pen__type_support.c.o[0m
+[8.990s] [ 62%] [32mBuilding CXX object CMakeFiles/turtlesim_node.dir/include/turtlesim/moc_turtle_frame.cpp.o[0m
+[9.007s] [ 63%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim/action/detail/rotate_absolute__type_support_c.cpp.o[0m
+[9.040s] [ 64%] [32m[1mLinking CXX shared library libturtlesim__rosidl_typesupport_introspection_cpp.so[0m
+[9.075s] [ 65%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim/srv/detail/spawn__type_support.c.o[0m
+[9.156s] [ 66%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim/srv/detail/teleport_absolute__type_support.c.o[0m
+[9.171s] [ 67%] [32mBuilding CXX object CMakeFiles/draw_square.dir/tutorials/draw_square.cpp.o[0m
+[9.188s] [ 68%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim/msg/detail/color__type_support_c.cpp.o[0m
+[9.197s] [ 69%] [32mBuilding CXX object CMakeFiles/mimic.dir/tutorials/mimic.cpp.o[0m
+[9.209s] [ 69%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[9.236s] [ 70%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim/srv/detail/teleport_relative__type_support.c.o[0m
+[9.237s] [ 71%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim/msg/detail/pose__type_support_c.cpp.o[0m
+[9.256s] [ 72%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim/srv/detail/kill__type_support_c.cpp.o[0m
+[9.314s] [ 73%] [32m[1mLinking C shared library libturtlesim__rosidl_typesupport_introspection_c.so[0m
+[9.367s] [ 74%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim/srv/detail/set_pen__type_support_c.cpp.o[0m
+[9.397s] [ 75%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim/srv/detail/spawn__type_support_c.cpp.o[0m
+[9.397s] [ 75%] Built target turtlesim__rosidl_typesupport_introspection_c
+[9.422s] [ 76%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim/srv/detail/teleport_absolute__type_support_c.cpp.o[0m
+[9.434s] [ 77%] [32mBuilding CXX object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim/srv/detail/teleport_relative__type_support_c.cpp.o[0m
+[9.521s] [ 78%] [32m[1mLinking CXX shared library libturtlesim__rosidl_typesupport_fastrtps_cpp.so[0m
+[9.792s] [ 78%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+[9.997s] [ 79%] [32m[1mLinking CXX shared library libturtlesim__rosidl_typesupport_fastrtps_c.so[0m
+[10.094s] [ 79%] Built target turtlesim__rosidl_typesupport_fastrtps_c
+[10.135s] [ 79%] Built target turtlesim
+[10.176s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[12.136s] [ 80%] Built target turtlesim__py
+[12.186s] [ 85%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_py.dir/rosidl_generator_py/turtlesim/msg/_pose_s.c.o[0m
+[12.186s] [ 85%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_py.dir/rosidl_generator_py/turtlesim/srv/_teleport_relative_s.c.o[0m
+[12.187s] [ 85%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_py.dir/rosidl_generator_py/turtlesim/srv/_kill_s.c.o[0m
+[12.187s] [ 86%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_py.dir/rosidl_generator_py/turtlesim/action/_rotate_absolute_s.c.o[0m
+[12.187s] [ 86%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_py.dir/rosidl_generator_py/turtlesim/msg/_color_s.c.o[0m
+[12.187s] [ 86%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_py.dir/rosidl_generator_py/turtlesim/srv/_set_pen_s.c.o[0m
+[12.187s] [ 87%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_py.dir/rosidl_generator_py/turtlesim/srv/_teleport_absolute_s.c.o[0m
+[12.187s] [ 88%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_generator_py.dir/rosidl_generator_py/turtlesim/srv/_spawn_s.c.o[0m
+[12.422s] [ 89%] [32m[1mLinking C shared library rosidl_generator_py/turtlesim/libturtlesim__rosidl_generator_py.so[0m
+[12.495s] [ 89%] Built target turtlesim__rosidl_generator_py
+[12.544s] [ 90%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/turtlesim/_turtlesim_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[12.559s] [ 92%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/turtlesim/_turtlesim_s.ep.rosidl_typesupport_c.c.o[0m
+[12.559s] [ 92%] [32mBuilding C object CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/turtlesim/_turtlesim_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[12.790s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/turtlesim/turtlesim_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[12.808s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/turtlesim/turtlesim_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[12.836s] [ 95%] [32m[1mLinking C shared library rosidl_generator_py/turtlesim/turtlesim_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[12.878s] [ 95%] Built target turtlesim__rosidl_typesupport_c__pyext
+[12.896s] [ 95%] Built target turtlesim__rosidl_typesupport_introspection_c__pyext
+[12.914s] [ 95%] Built target turtlesim__rosidl_typesupport_fastrtps_c__pyext
+[15.123s] [ 96%] [32m[1mLinking CXX executable turtle_teleop_key[0m
+[15.779s] [ 96%] Built target turtle_teleop_key
+[17.794s] [ 97%] [32m[1mLinking CXX executable mimic[0m
+[18.327s] [ 98%] [32m[1mLinking CXX executable draw_square[0m
+[18.475s] [ 98%] Built target mimic
+[19.102s] [ 98%] Built target draw_square
+[20.842s] [100%] [32m[1mLinking CXX executable turtlesim_node[0m
+[22.949s] [100%] Built target turtlesim_node
+[22.966s] Invoked command in '/home/humberto/ros2_ws/src/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/humberto/ros2_humble/install/rqt_bag_plugins:/home/humberto/ros2_humble/install/rqt_bag:/home/humberto/ros2_humble/install/launch_testing_examples:/home/humberto/ros2_humble/install/ros2bag:/home/humberto/ros2_humble/install/tracetools_test:/home/humberto/ros2_humble/install/tracetools_launch:/home/humberto/ros2_humble/install/topic_monitor:/home/humberto/ros2_humble/install/tf2_tools:/home/humberto/ros2_humble/install/examples_tf2_py:/home/humberto/ros2_humble/install/tf2_ros_py:/home/humberto/ros2_humble/install/sros2:/home/humberto/ros2_humble/install/rqt_topic:/home/humberto/ros2_humble/install/rqt_srv:/home/humberto/ros2_humble/install/rqt_shell:/home/humberto/ros2_humble/install/rqt_service_caller:/home/humberto/ros2_humble/install/rqt_reconfigure:/home/humberto/ros2_humble/install/rqt_py_console:/home/humberto/ros2_humble/install/rqt_publisher:/home/humberto/ros2_humble/install/rqt_plot:/home/humberto/ros2_humble/install/rqt_action:/home/humberto/ros2_humble/install/rqt_msg:/home/humberto/ros2_humble/install/rqt_console:/home/humberto/ros2_humble/install/rqt:/home/humberto/ros2_humble/install/rqt_graph:/home/humberto/ros2_humble/install/rqt_gui_py:/home/humberto/ros2_humble/install/rqt_gui:/home/humberto/ros2_humble/install/ros2trace:/home/humberto/ros2_humble/install/ros2topic:/home/humberto/ros2_humble/install/ros2test:/home/humberto/ros2_humble/install/ros2component:/home/humberto/ros2_humble/install/ros2param:/home/humberto/ros2_humble/install/ros2lifecycle:/home/humberto/ros2_humble/install/ros2service:/home/humberto/ros2_humble/install/ros2run:/home/humberto/ros2_humble/install/ros2launch:/home/humberto/ros2_humble/install/ros2pkg:/home/humberto/ros2_humble/install/ros2node:/home/humberto/ros2_humble/install/ros2multicast:/home/humberto/ros2_humble/install/ros2interface:/home/humberto/ros2_humble/install/ros2doctor:/home/humberto/ros2_humble/install/ros2action:/home/humberto/ros2_humble/install/ros2cli:/home/humberto/ros2_humble/install/quality_of_service_demo_py:/home/humberto/ros2_humble/install/lifecycle_py:/home/humberto/ros2_humble/install/launch_testing_ros:/home/humberto/ros2_humble/install/launch_ros:/home/humberto/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/humberto/ros2_humble/install/examples_rclpy_minimal_service:/home/humberto/ros2_humble/install/examples_rclpy_minimal_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_client:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_server:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_client:/home/humberto/ros2_humble/install/examples_rclpy_guard_conditions:/home/humberto/ros2_humble/install/examples_rclpy_executors:/home/humberto/ros2_humble/install/demo_nodes_py:/home/humberto/ros2_humble/install/camera_info_manager_py:/home/humberto/ros2_humble/install/action_tutorials_py:/home/humberto/ros2_humble/install/ament_uncrustify:/home/humberto/ros2_humble/install/tracetools_trace:/home/humberto/ros2_humble/install/tracetools_read:/home/humberto/ros2_humble/install/test_tracetools_launch:/home/humberto/ros2_humble/install/test_launch_ros:/home/humberto/ros2_humble/install/sensor_msgs_py:/home/humberto/ros2_humble/install/rpyutils:/home/humberto/ros2_humble/install/rosidl_runtime_py:/home/humberto/ros2_humble/install/rosidl_cli:/home/humberto/ros2_humble/install/launch_pytest:/home/humberto/ros2_humble/install/launch_testing:/home/humberto/ros2_humble/install/launch_yaml:/home/humberto/ros2_humble/install/launch_xml:/home/humberto/ros2_humble/install/launch:/home/humberto/ros2_humble/install/osrf_pycommon:/home/humberto/ros2_humble/install/domain_coordinator:/home/humberto/ros2_humble/install/ament_xmllint:/home/humberto/ros2_humble/install/ament_pyflakes:/home/humberto/ros2_humble/install/ament_pycodestyle:/home/humberto/ros2_humble/install/ament_pep257:/home/humberto/ros2_humble/install/ament_pclint:/home/humberto/ros2_humble/install/ament_package:/home/humberto/ros2_humble/install/ament_mypy:/home/humberto/ros2_humble/install/ament_lint_cmake:/home/humberto/ros2_humble/install/ament_flake8:/home/humberto/ros2_humble/install/ament_copyright:/home/humberto/ros2_humble/install/ament_lint:/home/humberto/ros2_humble/install/ament_index_python:/home/humberto/ros2_humble/install/ament_cpplint:/home/humberto/ros2_humble/install/ament_cppcheck:/home/humberto/ros2_humble/install/ament_clang_tidy:/home/humberto/ros2_humble/install/ament_clang_format /usr/bin/cmake --build /home/humberto/ros2_ws/src/build/turtlesim -- -j16 -l16
+[22.968s] Invoking command in '/home/humberto/ros2_ws/src/build/turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/humberto/ros2_humble/install/rqt_bag_plugins:/home/humberto/ros2_humble/install/rqt_bag:/home/humberto/ros2_humble/install/launch_testing_examples:/home/humberto/ros2_humble/install/ros2bag:/home/humberto/ros2_humble/install/tracetools_test:/home/humberto/ros2_humble/install/tracetools_launch:/home/humberto/ros2_humble/install/topic_monitor:/home/humberto/ros2_humble/install/tf2_tools:/home/humberto/ros2_humble/install/examples_tf2_py:/home/humberto/ros2_humble/install/tf2_ros_py:/home/humberto/ros2_humble/install/sros2:/home/humberto/ros2_humble/install/rqt_topic:/home/humberto/ros2_humble/install/rqt_srv:/home/humberto/ros2_humble/install/rqt_shell:/home/humberto/ros2_humble/install/rqt_service_caller:/home/humberto/ros2_humble/install/rqt_reconfigure:/home/humberto/ros2_humble/install/rqt_py_console:/home/humberto/ros2_humble/install/rqt_publisher:/home/humberto/ros2_humble/install/rqt_plot:/home/humberto/ros2_humble/install/rqt_action:/home/humberto/ros2_humble/install/rqt_msg:/home/humberto/ros2_humble/install/rqt_console:/home/humberto/ros2_humble/install/rqt:/home/humberto/ros2_humble/install/rqt_graph:/home/humberto/ros2_humble/install/rqt_gui_py:/home/humberto/ros2_humble/install/rqt_gui:/home/humberto/ros2_humble/install/ros2trace:/home/humberto/ros2_humble/install/ros2topic:/home/humberto/ros2_humble/install/ros2test:/home/humberto/ros2_humble/install/ros2component:/home/humberto/ros2_humble/install/ros2param:/home/humberto/ros2_humble/install/ros2lifecycle:/home/humberto/ros2_humble/install/ros2service:/home/humberto/ros2_humble/install/ros2run:/home/humberto/ros2_humble/install/ros2launch:/home/humberto/ros2_humble/install/ros2pkg:/home/humberto/ros2_humble/install/ros2node:/home/humberto/ros2_humble/install/ros2multicast:/home/humberto/ros2_humble/install/ros2interface:/home/humberto/ros2_humble/install/ros2doctor:/home/humberto/ros2_humble/install/ros2action:/home/humberto/ros2_humble/install/ros2cli:/home/humberto/ros2_humble/install/quality_of_service_demo_py:/home/humberto/ros2_humble/install/lifecycle_py:/home/humberto/ros2_humble/install/launch_testing_ros:/home/humberto/ros2_humble/install/launch_ros:/home/humberto/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/humberto/ros2_humble/install/examples_rclpy_minimal_service:/home/humberto/ros2_humble/install/examples_rclpy_minimal_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_client:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_server:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_client:/home/humberto/ros2_humble/install/examples_rclpy_guard_conditions:/home/humberto/ros2_humble/install/examples_rclpy_executors:/home/humberto/ros2_humble/install/demo_nodes_py:/home/humberto/ros2_humble/install/camera_info_manager_py:/home/humberto/ros2_humble/install/action_tutorials_py:/home/humberto/ros2_humble/install/ament_uncrustify:/home/humberto/ros2_humble/install/tracetools_trace:/home/humberto/ros2_humble/install/tracetools_read:/home/humberto/ros2_humble/install/test_tracetools_launch:/home/humberto/ros2_humble/install/test_launch_ros:/home/humberto/ros2_humble/install/sensor_msgs_py:/home/humberto/ros2_humble/install/rpyutils:/home/humberto/ros2_humble/install/rosidl_runtime_py:/home/humberto/ros2_humble/install/rosidl_cli:/home/humberto/ros2_humble/install/launch_pytest:/home/humberto/ros2_humble/install/launch_testing:/home/humberto/ros2_humble/install/launch_yaml:/home/humberto/ros2_humble/install/launch_xml:/home/humberto/ros2_humble/install/launch:/home/humberto/ros2_humble/install/osrf_pycommon:/home/humberto/ros2_humble/install/domain_coordinator:/home/humberto/ros2_humble/install/ament_xmllint:/home/humberto/ros2_humble/install/ament_pyflakes:/home/humberto/ros2_humble/install/ament_pycodestyle:/home/humberto/ros2_humble/install/ament_pep257:/home/humberto/ros2_humble/install/ament_pclint:/home/humberto/ros2_humble/install/ament_package:/home/humberto/ros2_humble/install/ament_mypy:/home/humberto/ros2_humble/install/ament_lint_cmake:/home/humberto/ros2_humble/install/ament_flake8:/home/humberto/ros2_humble/install/ament_copyright:/home/humberto/ros2_humble/install/ament_lint:/home/humberto/ros2_humble/install/ament_index_python:/home/humberto/ros2_humble/install/ament_cpplint:/home/humberto/ros2_humble/install/ament_cppcheck:/home/humberto/ros2_humble/install/ament_clang_tidy:/home/humberto/ros2_humble/install/ament_clang_format /usr/bin/cmake --install /home/humberto/ros2_ws/src/build/turtlesim
+[22.982s] -- Install configuration: ""
+[22.982s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/ament_index/resource_index/rosidl_interfaces/turtlesim
+[22.982s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim
+[22.982s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg
+[22.982s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_generator_c__visibility_control.h
+[22.982s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[22.982s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.h
+[22.982s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__functions.c
+[22.982s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__functions.c
+[22.982s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__struct.h
+[22.982s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__functions.h
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.h
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__functions.h
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__struct.h
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/pose.h
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/color.h
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__struct.h
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__struct.h
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__functions.c
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__functions.c
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__functions.h
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__functions.c
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__functions.h
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__functions.c
+[22.983s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__functions.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__struct.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__struct.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__struct.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__functions.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__functions.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__functions.c
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_absolute.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/kill.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/spawn.h
+[22.984s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_relative.h
+[22.985s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/set_pen.h
+[22.985s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action
+[22.985s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[22.985s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__functions.h
+[22.985s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.h
+[22.985s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__functions.c
+[22.985s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__struct.h
+[22.985s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/rotate_absolute.h
+[22.985s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/environment/library_path.sh
+[22.985s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/environment/library_path.dsv
+[22.985s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_generator_c.so
+[22.986s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_generator_c.so" to ""
+[22.986s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim
+[22.986s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg
+[22.986s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[22.986s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[22.986s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_fastrtps_c.h
+[22.986s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_fastrtps_c.h
+[22.986s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv
+[22.986s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[22.987s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_c.h
+[22.987s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_fastrtps_c.h
+[22.987s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_fastrtps_c.h
+[22.987s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_fastrtps_c.h
+[22.987s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_c.h
+[22.987s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action
+[22.987s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[22.987s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_c.h
+[22.987s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_c.so
+[22.987s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_c.so" to ""
+[22.987s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim
+[22.987s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg
+[22.987s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[22.987s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__traits.hpp
+[22.987s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__struct.hpp
+[22.987s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__struct.hpp
+[22.987s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.hpp
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__builder.hpp
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.hpp
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__builder.hpp
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__traits.hpp
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_generator_cpp__visibility_control.hpp
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/pose.hpp
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/color.hpp
+[22.988s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/kill.hpp
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/set_pen.hpp
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_absolute.hpp
+[22.988s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.hpp
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__builder.hpp
+[22.988s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__traits.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__struct.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__builder.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__struct.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__struct.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__traits.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__builder.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__builder.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__traits.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__traits.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__traits.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__struct.hpp
+[22.989s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__struct.hpp
+[22.990s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.hpp
+[22.990s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__builder.hpp
+[22.990s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/spawn.hpp
+[22.990s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_relative.hpp
+[22.990s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action
+[22.990s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[22.990s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.hpp
+[22.990s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__struct.hpp
+[22.990s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__traits.hpp
+[22.990s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__builder.hpp
+[22.990s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/rotate_absolute.hpp
+[22.990s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim
+[22.990s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg
+[22.990s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[22.990s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_fastrtps_cpp.hpp
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_fastrtps_cpp.hpp
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/dds_fastrtps
+[22.991s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv
+[22.991s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_cpp.hpp
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_fastrtps_cpp.hpp
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_fastrtps_cpp.hpp
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/dds_fastrtps
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_fastrtps_cpp.hpp
+[22.991s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action
+[22.991s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/dds_fastrtps
+[22.991s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_cpp.so
+[22.992s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_cpp.so" to ""
+[22.992s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim
+[22.992s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg
+[22.992s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[22.992s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_introspection_c.h
+[22.992s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_introspection_c.h
+[22.992s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.c
+[22.992s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.c
+[22.992s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[22.992s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv
+[22.992s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[22.992s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.c
+[22.992s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_introspection_c.h
+[22.992s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.c
+[22.992s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_introspection_c.h
+[22.992s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_introspection_c.h
+[22.993s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_introspection_c.h
+[22.993s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.c
+[22.993s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_introspection_c.h
+[22.993s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.c
+[22.993s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.c
+[22.993s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action
+[22.993s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[22.993s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.c
+[22.993s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_introspection_c.h
+[22.993s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_c.so
+[22.993s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_c.so" to ""
+[22.994s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_c.so
+[22.994s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_c.so" to ""
+[22.994s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim
+[22.994s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg
+[22.994s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail
+[22.994s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_introspection_cpp.hpp
+[22.994s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.cpp
+[22.994s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_introspection_cpp.hpp
+[22.994s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.cpp
+[22.994s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv
+[22.995s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.cpp
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_introspection_cpp.hpp
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.cpp
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_introspection_cpp.hpp
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_introspection_cpp.hpp
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.cpp
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.cpp
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_introspection_cpp.hpp
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_introspection_cpp.hpp
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.cpp
+[22.995s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action
+[22.995s] -- Up-to-date: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.cpp
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_introspection_cpp.hpp
+[22.995s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_cpp.so
+[22.996s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_cpp.so" to ""
+[22.996s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_cpp.so
+[22.996s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_typesupport_cpp.so" to ""
+[22.996s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/environment/pythonpath.sh
+[22.996s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/environment/pythonpath.dsv
+[22.996s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info
+[22.996s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/SOURCES.txt
+[22.996s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/dependency_links.txt
+[22.996s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/top_level.txt
+[22.997s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/PKG-INFO
+[22.997s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim
+[22.997s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_fastrtps_c.c
+[22.997s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[22.997s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg
+[22.997s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_color_s.c
+[22.997s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_pose.py
+[22.997s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/__init__.py
+[22.997s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_pose_s.c
+[22.997s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_color.py
+[22.997s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/libturtlesim__rosidl_generator_py.so
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_absolute.py
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_kill.py
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_relative.py
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_absolute_s.c
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_set_pen_s.c
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_spawn.py
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_relative_s.c
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_set_pen.py
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/__init__.py
+[22.998s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_spawn_s.c
+[22.999s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_kill_s.c
+[22.999s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/__init__.py
+[22.999s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action
+[22.999s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/_rotate_absolute.py
+[22.999s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/_rotate_absolute_s.c
+[22.999s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/__init__.py
+[22.999s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_c.c
+[22.999s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_introspection_c.c
+[22.999s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[23.144s] Listing '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim'...
+[23.144s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/__init__.py'...
+[23.144s] Listing '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action'...
+[23.144s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/__init__.py'...
+[23.144s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/_rotate_absolute.py'...
+[23.145s] Listing '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg'...
+[23.145s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/__init__.py'...
+[23.145s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_color.py'...
+[23.145s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_pose.py'...
+[23.145s] Listing '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv'...
+[23.145s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/__init__.py'...
+[23.145s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_kill.py'...
+[23.145s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_set_pen.py'...
+[23.145s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_spawn.py'...
+[23.145s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_absolute.py'...
+[23.145s] Compiling '/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_relative.py'...
+[23.150s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[23.150s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[23.150s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[23.150s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[23.150s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[23.150s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[23.151s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_generator_py.so
+[23.151s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/libturtlesim__rosidl_generator_py.so" to ""
+[23.151s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/action/RotateAbsolute.idl
+[23.151s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/msg/Color.idl
+[23.151s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/msg/Pose.idl
+[23.151s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/Kill.idl
+[23.151s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/SetPen.idl
+[23.151s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/Spawn.idl
+[23.151s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/TeleportAbsolute.idl
+[23.152s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/TeleportRelative.idl
+[23.152s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/action/RotateAbsolute.action
+[23.152s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/msg/Color.msg
+[23.152s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/msg/Pose.msg
+[23.152s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/Kill.srv
+[23.152s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/Kill_Request.msg
+[23.152s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/Kill_Response.msg
+[23.152s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/SetPen.srv
+[23.152s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/SetPen_Request.msg
+[23.152s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/SetPen_Response.msg
+[23.152s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/Spawn.srv
+[23.153s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/Spawn_Request.msg
+[23.153s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/Spawn_Response.msg
+[23.153s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/TeleportAbsolute.srv
+[23.153s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/TeleportAbsolute_Request.msg
+[23.153s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/TeleportAbsolute_Response.msg
+[23.153s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/TeleportRelative.srv
+[23.153s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/TeleportRelative_Request.msg
+[23.153s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/srv/TeleportRelative_Response.msg
+[23.153s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/turtlesim/turtlesim_node
+[23.160s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/turtlesim/turtlesim_node" to ""
+[23.160s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/turtlesim/turtle_teleop_key
+[23.161s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/turtlesim/turtle_teleop_key" to ""
+[23.161s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/turtlesim/draw_square
+[23.165s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/turtlesim/draw_square" to ""
+[23.165s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/lib/turtlesim/mimic
+[23.167s] -- Set runtime path of "/home/humberto/ros2_ws/src/install/turtlesim/lib/turtlesim/mimic" to ""
+[23.167s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/images
+[23.167s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/images/humble.png
+[23.174s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/images/crystal.png
+[23.174s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/images/foxy.png
+[23.175s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/images/ardent.png
+[23.175s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/images/eloquent.png
+[23.175s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/images/galactic.png
+[23.175s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/images/dashing.png
+[23.175s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/images/rolling.png
+[23.175s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/images/bouncy.png
+[23.175s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/launch
+[23.175s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/launch/multisim.launch.py
+[23.176s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/ament_index/resource_index/package_run_dependencies/turtlesim
+[23.176s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/ament_index/resource_index/parent_prefix_path/turtlesim
+[23.176s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/environment/ament_prefix_path.sh
+[23.176s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/environment/ament_prefix_path.dsv
+[23.176s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/environment/path.sh
+[23.176s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/environment/path.dsv
+[23.176s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/local_setup.bash
+[23.176s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/local_setup.sh
+[23.176s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/local_setup.zsh
+[23.176s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/local_setup.dsv
+[23.177s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/package.dsv
+[23.177s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/ament_index/resource_index/packages/turtlesim
+[23.177s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cExport.cmake
+[23.177s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cExport-noconfig.cmake
+[23.177s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cExport.cmake
+[23.177s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[23.177s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cppExport.cmake
+[23.177s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cppExport.cmake
+[23.177s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[23.178s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cExport.cmake
+[23.178s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[23.178s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cExport.cmake
+[23.178s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cExport-noconfig.cmake
+[23.178s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cppExport.cmake
+[23.178s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[23.178s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cppExport.cmake
+[23.178s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cppExport-noconfig.cmake
+[23.179s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_pyExport.cmake
+[23.179s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_pyExport-noconfig.cmake
+[23.179s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/rosidl_cmake-extras.cmake
+[23.179s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_dependencies-extras.cmake
+[23.179s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_include_directories-extras.cmake
+[23.179s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_libraries-extras.cmake
+[23.179s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_targets-extras.cmake
+[23.179s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[23.179s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[23.180s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/turtlesimConfig.cmake
+[23.180s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/cmake/turtlesimConfig-version.cmake
+[23.180s] -- Installing: /home/humberto/ros2_ws/src/install/turtlesim/share/turtlesim/package.xml
+[23.182s] Invoked command in '/home/humberto/ros2_ws/src/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/humberto/ros2_humble/install/rqt_bag_plugins:/home/humberto/ros2_humble/install/rqt_bag:/home/humberto/ros2_humble/install/launch_testing_examples:/home/humberto/ros2_humble/install/ros2bag:/home/humberto/ros2_humble/install/tracetools_test:/home/humberto/ros2_humble/install/tracetools_launch:/home/humberto/ros2_humble/install/topic_monitor:/home/humberto/ros2_humble/install/tf2_tools:/home/humberto/ros2_humble/install/examples_tf2_py:/home/humberto/ros2_humble/install/tf2_ros_py:/home/humberto/ros2_humble/install/sros2:/home/humberto/ros2_humble/install/rqt_topic:/home/humberto/ros2_humble/install/rqt_srv:/home/humberto/ros2_humble/install/rqt_shell:/home/humberto/ros2_humble/install/rqt_service_caller:/home/humberto/ros2_humble/install/rqt_reconfigure:/home/humberto/ros2_humble/install/rqt_py_console:/home/humberto/ros2_humble/install/rqt_publisher:/home/humberto/ros2_humble/install/rqt_plot:/home/humberto/ros2_humble/install/rqt_action:/home/humberto/ros2_humble/install/rqt_msg:/home/humberto/ros2_humble/install/rqt_console:/home/humberto/ros2_humble/install/rqt:/home/humberto/ros2_humble/install/rqt_graph:/home/humberto/ros2_humble/install/rqt_gui_py:/home/humberto/ros2_humble/install/rqt_gui:/home/humberto/ros2_humble/install/ros2trace:/home/humberto/ros2_humble/install/ros2topic:/home/humberto/ros2_humble/install/ros2test:/home/humberto/ros2_humble/install/ros2component:/home/humberto/ros2_humble/install/ros2param:/home/humberto/ros2_humble/install/ros2lifecycle:/home/humberto/ros2_humble/install/ros2service:/home/humberto/ros2_humble/install/ros2run:/home/humberto/ros2_humble/install/ros2launch:/home/humberto/ros2_humble/install/ros2pkg:/home/humberto/ros2_humble/install/ros2node:/home/humberto/ros2_humble/install/ros2multicast:/home/humberto/ros2_humble/install/ros2interface:/home/humberto/ros2_humble/install/ros2doctor:/home/humberto/ros2_humble/install/ros2action:/home/humberto/ros2_humble/install/ros2cli:/home/humberto/ros2_humble/install/quality_of_service_demo_py:/home/humberto/ros2_humble/install/lifecycle_py:/home/humberto/ros2_humble/install/launch_testing_ros:/home/humberto/ros2_humble/install/launch_ros:/home/humberto/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/humberto/ros2_humble/install/examples_rclpy_minimal_service:/home/humberto/ros2_humble/install/examples_rclpy_minimal_publisher:/home/humberto/ros2_humble/install/examples_rclpy_minimal_client:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_server:/home/humberto/ros2_humble/install/examples_rclpy_minimal_action_client:/home/humberto/ros2_humble/install/examples_rclpy_guard_conditions:/home/humberto/ros2_humble/install/examples_rclpy_executors:/home/humberto/ros2_humble/install/demo_nodes_py:/home/humberto/ros2_humble/install/camera_info_manager_py:/home/humberto/ros2_humble/install/action_tutorials_py:/home/humberto/ros2_humble/install/ament_uncrustify:/home/humberto/ros2_humble/install/tracetools_trace:/home/humberto/ros2_humble/install/tracetools_read:/home/humberto/ros2_humble/install/test_tracetools_launch:/home/humberto/ros2_humble/install/test_launch_ros:/home/humberto/ros2_humble/install/sensor_msgs_py:/home/humberto/ros2_humble/install/rpyutils:/home/humberto/ros2_humble/install/rosidl_runtime_py:/home/humberto/ros2_humble/install/rosidl_cli:/home/humberto/ros2_humble/install/launch_pytest:/home/humberto/ros2_humble/install/launch_testing:/home/humberto/ros2_humble/install/launch_yaml:/home/humberto/ros2_humble/install/launch_xml:/home/humberto/ros2_humble/install/launch:/home/humberto/ros2_humble/install/osrf_pycommon:/home/humberto/ros2_humble/install/domain_coordinator:/home/humberto/ros2_humble/install/ament_xmllint:/home/humberto/ros2_humble/install/ament_pyflakes:/home/humberto/ros2_humble/install/ament_pycodestyle:/home/humberto/ros2_humble/install/ament_pep257:/home/humberto/ros2_humble/install/ament_pclint:/home/humberto/ros2_humble/install/ament_package:/home/humberto/ros2_humble/install/ament_mypy:/home/humberto/ros2_humble/install/ament_lint_cmake:/home/humberto/ros2_humble/install/ament_flake8:/home/humberto/ros2_humble/install/ament_copyright:/home/humberto/ros2_humble/install/ament_lint:/home/humberto/ros2_humble/install/ament_index_python:/home/humberto/ros2_humble/install/ament_cpplint:/home/humberto/ros2_humble/install/ament_cppcheck:/home/humberto/ros2_humble/install/ament_clang_tidy:/home/humberto/ros2_humble/install/ament_clang_format /usr/bin/cmake --install /home/humberto/ros2_ws/src/build/turtlesim

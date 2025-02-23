@@ -1,0 +1,15 @@
+/home/humberto/ros2_ws/src/install/basic_comms/share/ament_index/resource_index/package_run_dependencies/basic_comms
+/home/humberto/ros2_ws/src/install/basic_comms/share/ament_index/resource_index/parent_prefix_path/basic_comms
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/environment/ament_prefix_path.sh
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/environment/ament_prefix_path.dsv
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/environment/path.sh
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/environment/path.dsv
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/local_setup.bash
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/local_setup.sh
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/local_setup.zsh
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/local_setup.dsv
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/package.dsv
+/home/humberto/ros2_ws/src/install/basic_comms/share/ament_index/resource_index/packages/basic_comms
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/cmake/basic_commsConfig.cmake
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/cmake/basic_commsConfig-version.cmake
+/home/humberto/ros2_ws/src/install/basic_comms/share/basic_comms/package.xml

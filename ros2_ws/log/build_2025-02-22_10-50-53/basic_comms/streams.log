@@ -1,0 +1,18 @@
+[1.381s] Invoking command in '/home/humberto/ros2_ws/build/basic_comms': PYTHONPATH=/home/humberto/ros2_ws/build/basic_comms/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/ros2_ws/install/basic_comms/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/humberto/ros2_ws/build/basic_comms/build --no-deps symlink_data
+[1.802s] running develop
+[2.025s] running egg_info
+[2.026s] writing basic_comms.egg-info/PKG-INFO
+[2.026s] writing dependency_links to basic_comms.egg-info/dependency_links.txt
+[2.026s] writing entry points to basic_comms.egg-info/entry_points.txt
+[2.026s] writing requirements to basic_comms.egg-info/requires.txt
+[2.026s] writing top-level names to basic_comms.egg-info/top_level.txt
+[2.028s] reading manifest file 'basic_comms.egg-info/SOURCES.txt'
+[2.029s] writing manifest file 'basic_comms.egg-info/SOURCES.txt'
+[2.033s] running build_ext
+[2.033s] Creating /home/humberto/ros2_ws/install/basic_comms/lib/python3.10/site-packages/basic-comms.egg-link (link to .)
+[2.034s] Installing listener script to /home/humberto/ros2_ws/install/basic_comms/lib/basic_comms
+[2.034s] Installing talker script to /home/humberto/ros2_ws/install/basic_comms/lib/basic_comms
+[2.034s] 
+[2.035s] Installed /home/humberto/ros2_ws/build/basic_comms
+[2.035s] running symlink_data
+[2.056s] Invoked command in '/home/humberto/ros2_ws/build/basic_comms' returned '0': PYTHONPATH=/home/humberto/ros2_ws/build/basic_comms/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/ros2_ws/install/basic_comms/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/humberto/ros2_ws/build/basic_comms/build --no-deps symlink_data

@@ -1,0 +1,27 @@
+[1.732s] Invoking command in '/home/humberto/ros2_ws/build/motor_control': PYTHONPATH=/home/humberto/ros2_ws/build/motor_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/ros2_ws/install/motor_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/humberto/ros2_ws/build/motor_control/build --no-deps symlink_data --force
+[2.263s] running develop
+[2.539s] running egg_info
+[2.539s] writing motor_control.egg-info/PKG-INFO
+[2.539s] writing dependency_links to motor_control.egg-info/dependency_links.txt
+[2.540s] writing entry points to motor_control.egg-info/entry_points.txt
+[2.540s] writing requirements to motor_control.egg-info/requires.txt
+[2.540s] writing top-level names to motor_control.egg-info/top_level.txt
+[2.542s] reading manifest file 'motor_control.egg-info/SOURCES.txt'
+[2.547s] writing manifest file 'motor_control.egg-info/SOURCES.txt'
+[2.553s] running build_ext
+[2.553s] Creating /home/humberto/ros2_ws/install/motor_control/lib/python3.10/site-packages/motor-control.egg-link (link to .)
+[2.554s] Installing controller script to /home/humberto/ros2_ws/install/motor_control/lib/motor_control
+[2.555s] Installing dc_motor script to /home/humberto/ros2_ws/install/motor_control/lib/motor_control
+[2.555s] Installing set_point script to /home/humberto/ros2_ws/install/motor_control/lib/motor_control
+[2.555s] 
+[2.556s] Installed /home/humberto/ros2_ws/build/motor_control
+[2.556s] running symlink_data
+[2.556s] symbolically linking /home/humberto/ros2_ws/build/motor_control/resource/motor_control -> /home/humberto/ros2_ws/install/motor_control/share/ament_index/resource_index/packages
+[2.556s] symbolically linking /home/humberto/ros2_ws/build/motor_control/package.xml -> /home/humberto/ros2_ws/install/motor_control/share/motor_control
+[2.556s] symbolically linking /home/humberto/ros2_ws/build/motor_control/launch/challenge_launch.py -> /home/humberto/ros2_ws/install/motor_control/share/motor_control/launch
+[2.556s] symbolically linking /home/humberto/ros2_ws/build/motor_control/launch/motor_launch.py -> /home/humberto/ros2_ws/install/motor_control/share/motor_control/launch
+[2.556s] symbolically linking /home/humberto/ros2_ws/build/motor_control/launch/motor_2_launch.py -> /home/humberto/ros2_ws/install/motor_control/share/motor_control/launch
+[2.556s] error: [Errno 2] No such file or directory: '/home/humberto/ros2_ws/install/motor_control/share/motor_control/config/controller_params.yaml'
+[2.557s] symbolically linking /home/humberto/ros2_ws/build/motor_control/launch/motor_3_launch.py -> /home/humberto/ros2_ws/install/motor_control/share/motor_control/launch
+[2.557s] creating /home/humberto/ros2_ws/install/motor_control/share/motor_control/config
+[2.586s] Invoked command in '/home/humberto/ros2_ws/build/motor_control' returned '1': PYTHONPATH=/home/humberto/ros2_ws/build/motor_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/ros2_ws/install/motor_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/humberto/ros2_ws/build/motor_control/build --no-deps symlink_data --force

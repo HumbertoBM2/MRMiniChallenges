@@ -1,0 +1,20 @@
+[1.641s] Invoking command in '/home/humberto/ros2_ws/build/motor_control': PYTHONPATH=/home/humberto/ros2_ws/build/motor_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/ros2_ws/install/motor_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/humberto/ros2_ws/build/motor_control/build --no-deps symlink_data
+[2.156s] running develop
+[2.445s] running egg_info
+[2.445s] writing motor_control.egg-info/PKG-INFO
+[2.446s] writing dependency_links to motor_control.egg-info/dependency_links.txt
+[2.446s] writing entry points to motor_control.egg-info/entry_points.txt
+[2.446s] writing requirements to motor_control.egg-info/requires.txt
+[2.446s] writing top-level names to motor_control.egg-info/top_level.txt
+[2.448s] reading manifest file 'motor_control.egg-info/SOURCES.txt'
+[2.449s] writing manifest file 'motor_control.egg-info/SOURCES.txt'
+[2.454s] running build_ext
+[2.455s] Creating /home/humberto/ros2_ws/install/motor_control/lib/python3.10/site-packages/motor-control.egg-link (link to .)
+[2.457s] Installing controller script to /home/humberto/ros2_ws/install/motor_control/lib/motor_control
+[2.457s] Installing dc_motor script to /home/humberto/ros2_ws/install/motor_control/lib/motor_control
+[2.457s] Installing set_point script to /home/humberto/ros2_ws/install/motor_control/lib/motor_control
+[2.458s] 
+[2.458s] Installed /home/humberto/ros2_ws/build/motor_control
+[2.458s] running symlink_data
+[2.458s] symbolically linking /home/humberto/ros2_ws/build/motor_control/config/controller_params.yaml -> /home/humberto/ros2_ws/install/motor_control/share/motor_control/config
+[2.481s] Invoked command in '/home/humberto/ros2_ws/build/motor_control' returned '0': PYTHONPATH=/home/humberto/ros2_ws/build/motor_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/humberto/ros2_ws/install/motor_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/humberto/ros2_ws/build/motor_control/build --no-deps symlink_data

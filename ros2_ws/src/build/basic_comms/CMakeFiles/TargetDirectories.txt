@@ -1,0 +1,9 @@
+/home/humberto/ros2_ws/src/build/basic_comms/CMakeFiles/uninstall.dir
+/home/humberto/ros2_ws/src/build/basic_comms/CMakeFiles/basic_comms_uninstall.dir
+/home/humberto/ros2_ws/src/build/basic_comms/CMakeFiles/test.dir
+/home/humberto/ros2_ws/src/build/basic_comms/CMakeFiles/edit_cache.dir
+/home/humberto/ros2_ws/src/build/basic_comms/CMakeFiles/rebuild_cache.dir
+/home/humberto/ros2_ws/src/build/basic_comms/CMakeFiles/list_install_components.dir
+/home/humberto/ros2_ws/src/build/basic_comms/CMakeFiles/install.dir
+/home/humberto/ros2_ws/src/build/basic_comms/CMakeFiles/install/local.dir
+/home/humberto/ros2_ws/src/build/basic_comms/CMakeFiles/install/strip.dir
