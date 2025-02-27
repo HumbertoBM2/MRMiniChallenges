@@ -78,21 +78,26 @@ ros2 run rqt_graph rqt_graph
 ![plot1](Gallery/plot.jpg)
 
 
-## Mini challenge 2
+## **Mini Challenge 2**
 
-This challenge involved designing and tuning a PID controller to regulate the behavior of a simulated DC motor. The objective was to ensure that the motor’s actual speed followed the desired set point as closely as possible.
+This challenge involved designing and tuning a PID controller to regulate the behavior of a simulated DC motor in ROS 2. The objective was to ensure that the motor’s actual speed followed the desired set point as closely as possible, while allowing for real-time adjustments and different reference signal types.
+
+### **System Overview**  
 
 The system consisted of the following ROS 2 nodes:
 
-- Set Point Generator (sp_gen) → Provides the reference trajectory.
-- DC Motor (motor_sys) → Simulates a motor's response to control inputs.
-- PID Controller (ctrl) → Adjusts the input voltage (blue line) to make the motor speed match the set point.
+- **Set Point Generator (`sp_gen`)** → Generates a reference trajectory that the motor should follow. It now supports **multiple signal types** (`sine`, `square`, `step`), which can be dynamically selected using `rqt_reconfigure`.  
+- **DC Motor (`motor_sys`)** → Simulates a motor's response to control inputs. The motor parameters (**gain, time constant, sample time**) can now be **modified in real-time** through `rqt_reconfigure`.  
+- **PID Controller (`ctrl`)** → Adjusts the input voltage to minimize the error between the **motor speed and set point**. It includes **anti-windup for integral control**, **a low-pass filter for smoother control action**, and **optimized derivative handling** to improve stability when tracking discontinuous signals.
 
 Additionally, visualization and monitoring tools were used:
 
-- PlotJuggler → Real-time data visualization.
-- rqt_graph → Node and topic structure visualization.
-- rqt_reconfigure → Dynamic tuning of PID parameters.
+- **PlotJuggler** → Real-time data visualization of input voltages, motor speed, and set point.  
+- **rqt_graph** → Visualizes node and topic interactions, providing insight into data flow.  
+- **rqt_reconfigure** → Allows real-time tuning of **PID gains**, **motor parameters**, and **set point signal type** (`sine`, `square`, `step`).  
+
+These enhancements make the system more flexible and robust, enabling dynamic parameter tuning and stable control for different types of inputs. With improved PID stability, automated visualization, and real-time configuration, this implementation provides a versatile platform for experimenting with PID control in ROS 2.
+
 
 
 To test the developed solution for the challenge, you can run the following commands after cloning the repo:
@@ -126,3 +131,11 @@ ros2 launch motor_control challenge_launch.py
 ![plot22](Gallery/plot23groups.png)
 
 ![pid22](Gallery/reconfig2.png)
+
+![pid22](Gallery/graph2sine.png)
+
+![pid23](Gallery/graph2square.png)
+
+![pid24](Gallery/graph2step.png)
+
+![pid25](Gallery/graph2squaremulti.png)
